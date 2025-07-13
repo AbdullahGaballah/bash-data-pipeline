@@ -1,0 +1,3 @@
+Record count: 200
+Average height: 67.99
+Average weight: 127.25
